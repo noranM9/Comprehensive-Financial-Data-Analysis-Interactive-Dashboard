@@ -19,8 +19,7 @@ This project involves a comprehensive analysis of a corporate financial dataset 
 ## 💡 Insights Discovered
 * The **Government** segment represents the largest portion of sales.
 * **France** and **Germany** show the highest profit margins in specific product lines.
-* (Add more insights as you discover them during your analysis!)
-
+  
 ---
 ### 👩‍💻 About Me
 I am a Data Analyst passionate about turning data into stories. 
