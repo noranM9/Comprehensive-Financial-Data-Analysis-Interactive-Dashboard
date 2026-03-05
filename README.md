@@ -28,4 +28,4 @@ This project involves a comprehensive analysis of a corporate financial dataset 
 ---
 ### 👩‍💻 About Me
 I am a Data Analyst passionate about turning data into stories. 
-* 📫 Connect with me on [LinkedIn](www.linkedin.com/in/nourhan-abdelrahmanmohamed)
+* 📫 Connect with me on (www.linkedin.com/in/nourhan-abdelrahmanmohamed)
