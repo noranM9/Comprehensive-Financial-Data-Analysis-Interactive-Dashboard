@@ -20,12 +20,12 @@ This project involves a comprehensive analysis of a corporate financial dataset 
 * The **Government** segment represents the largest portion of sales.
 * **France** and **Germany** show the highest profit margins in specific product lines.
 * (Add more insights as you discover them during your analysis!)
-
+  
 ## 📸 Screenshots
 *(Tip: You can upload your dashboard screenshots here later)*
-![Dashboard Preview](link-to-your-image.png)
+
 
 ---
 ### 👩‍💻 About Me
 I am a Data Analyst passionate about turning data into stories. 
-* 📫 Connect with me on [LinkedIn](YOUR_LINKEDIN_URL)
+* 📫 Connect with me on [LinkedIn](www.linkedin.com/in/nourhan-abdelrahmanmohamed)
